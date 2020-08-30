@@ -8,7 +8,7 @@ public class pattern1 {
 		int n = scan.nextInt();
 		for(int i =0;i<n;i++) {
 			for(int j=0;j<=i;j++) {
-				System.out.print("\u00A7");
+				System.out.print("*");
 			}
 			System.out.println();
 		}
